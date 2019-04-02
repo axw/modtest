@@ -1,0 +1,5 @@
+github.com/axw/modtest v0.0.0-20190402072809-0a3ca1ee4719 h1:3Y5sOCNMwG/HW80f5Jtntk/7pjcUtmwdBrHfYnwF6d4=
+github.com/axw/modtest/v2 v2.0.0 h1:zckaHaxuJ5ivODFKdtuxek/CajnT4YZ905NE34eCgfQ=
+github.com/axw/modtest/v2 v2.0.0/go.mod h1:+KnbC5uak1GwMappLJNtwpQ2JgzHENe6WrGpoe6Qt7k=
+github.com/axw/modtest/v3 v3.0.0 h1:xIYs1iQq21R0KbeCVTNRcLUfplCHdjdxqQ9qs375jYY=
+github.com/axw/modtest/v3 v3.0.0/go.mod h1:GXYdSb2mseeg0Kqrc+W6NAKgprDwKRGqRQW7fMrbHlo=
